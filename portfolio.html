@@ -1,0 +1,17 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+---
+
+<div class="portfolio_content">
+    {% for project in site.projects %}
+        <article class="project">
+            <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
+            <h2>{{ project.tags | join: " | " }}</h2>
+            <a href="{{ site.baseurl }}{{ project.url }}" class="read-more">Read More</a>
+
+            <hr>
+        </article>
+    {% endfor %}
+</div>

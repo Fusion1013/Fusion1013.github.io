@@ -3,7 +3,7 @@ layout: post
 title: The First Blog Post
 ---
 
-It seems everyone has a blog these days, so this one will be mine.
+This is the first blog post!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
