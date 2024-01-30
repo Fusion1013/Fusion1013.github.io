@@ -1,5 +1,5 @@
 ---
-title: Game Project 1 - Pompi
+title: His Game Project 1 - Pompi
 layout: post # Replace with different layout
 year: 2022
 tags: [C#, Unity3D]
