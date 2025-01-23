@@ -11,6 +11,9 @@ description: Programmer
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/profile.png
 
+baseurl: /PROJECT
+url: http://Fusion1013.github.io
+
 #
 # Flags below are optional
 #
