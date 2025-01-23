@@ -3,6 +3,7 @@ title: HIS Game Project 2 - The Final Escape
 layout: post # Replace with different layout
 year: 2024
 tags: [C#, Unity3D]
+image: images/final_escape_logo.png
 ---
 
 The Final Escape is a game that was created for the course Game Project 2 at HIS. It was created by 11 people, where I was one of three programmers.
