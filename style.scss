@@ -9,6 +9,26 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+/****************/
+/* CUSTOM RULES */
+/****************/
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.excerpt-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-image {
+  margin-right: 10px;
+  width: 50px;
+  height: auto;
+}
+
 /**************/
 /* BASE RULES */
 /**************/

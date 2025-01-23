@@ -3,6 +3,7 @@ title: HIS Game Project 1 - Pompi
 layout: post # Replace with different layout
 year: 2022
 tags: [C#, Unity3D]
+image: images/PompiMaggi.png
 ---
 
 Pompi is a game that was created for the course Game Project 1 at HIS. It was created by 5 people, where I was the only programmer. I was joined by a 2D artist, animator, a musician and a designer.
