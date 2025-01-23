@@ -8,6 +8,9 @@ permalink: /portfolio/
     {% for project in site.projects %}
         <article class="project">
             <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
+            {%- if project.image -%}
+                <img src="{{ project.image }}">
+            {% endif %}
             <h2>{{ project.tags | join: " | " }}</h2>
             <div class="entry">
                 {{ project.excerpt }}
